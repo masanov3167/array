@@ -1,0 +1,44 @@
+.form{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.form-label{
+    display: block;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.form-input{
+    border: 1px solid darkgrey;
+    outline: none;
+    background: whitesmoke;
+    border-radius: 3px;
+    width: 15%;
+    height: 25px;
+    padding: 0 1%;
+}
+.form-button{
+    width: 7%;
+    height: 27px;
+    border: 1px solid darkgrey;
+    border-radius: 3px;
+}
+.result{
+    display: block;
+    text-align: center;
+    margin-top: 40px;
+    font-size: 20px;
+}
+
+.color-green{
+    color: #1d8d1d;
+}
+
+.color-red{
+    color: rgb(172, 70, 70);
+}
+
+.color-brown{
+    color: brown;
+}
