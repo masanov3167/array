@@ -23,6 +23,18 @@
 // numbers.push("dytfuyf7ugb");
 // console.log(numbers);
 
+// 1-masala 
+var arr = [3,2,5,6];
+function arraySum(array){
+var sum = 0;
+for(var i = 0; i < array.length; i++){
+    sum += array[i];
+    }
+console.log(`Arraydagi ${arr} sonlar bir-biriga qo'shilganda ${sum} bo'ladi!`);    
+}
+arraySum(arr);
+
+// 2-masala 
 var evenNumber = [2,4,];
 var oddNumber = [1,3,];
 
@@ -71,3 +83,5 @@ elForm.addEventListener ("submit" , function(evt) {
      }
      
 })
+
+
